@@ -1,0 +1,95 @@
+{
+    "bouquets": [
+        {
+            "id": 0,
+            "imageUrl": "http://localhost:3000/static/media/1.6ea153c786f373a392c1.jpeg",
+            "name": "Spring Freshness",
+            "types": [0, 1],
+            "sizes": [0, 1, 2],
+            "price": 149,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 1,
+            "imageUrl": "http://localhost:3000/static/media/2.2b8ac80c4e4518ff8419.webp",
+            "name": "Romantic Tenderness",
+            "types": [0],
+            "sizes": [0, 1, 2],
+            "price": 109,
+            "category": 1,
+            "rating": 3
+        },
+        {
+            "id": 2,
+            "imageUrl": "http://localhost:3000/static/media/3.6391f17ed703e77f2efe.jpeg",
+            "name": "Exotic Beauty",
+            "types": [0],
+            "sizes": [0, 1, 2],
+            "price": 179,
+            "category": 2,
+            "rating": 2
+        },
+        {
+            "id": 3,
+            "imageUrl": "http://localhost:3000/static/media/4.17e07db845d572374541.webp",
+            "name": "Summer Joy",
+            "types": [ 1],
+            "sizes": [0, 1],
+            "price": 129,
+            "category": 3,
+            "rating": 1
+        },
+       
+        {
+            "id": 4,
+            "imageUrl": "http://localhost:3000/static/media/5.f156eea26adba27bb3f6.jpg",
+            "name": " Colorful Harmony",
+            "types": [0, 1],
+            "sizes": [0, 2],
+            "price": 189,
+            "category": 4,
+            "rating": 4
+        },
+        {
+            "id": 5,
+            "imageUrl": "http://localhost:3000/static/media/6.7cfec74804fa110d5860.jpg",
+            "name": " Classic Elegance",
+            "types": [0, 1],
+            "sizes": [0, 1],
+            "price": 189,
+            "category": 0,
+            "rating": 3
+        },
+        {
+            "id": 6,
+            "imageUrl": "http://localhost:3000/static/media/7.acb86bb94f9b2e4f5e74.jpeg",
+            "name": "Vitality of Life",
+            "types": [0, 1],
+            "sizes": [0, 1, 2],
+            "price": 119,
+            "category": 1,
+            "rating": 2
+        },
+        {
+            "id": 7,
+            "imageUrl": "http://localhost:3000/static/media/8.496b01e7fb08045c5db0.jpg",
+            "name": "Minimalist Simplicity",
+            "types": [1],
+            "sizes": [0, 1, 2],
+            "price": 99,
+            "category": 2,
+            "rating": 1
+        },
+        {
+            "id": 8,
+            "imageUrl": "http://localhost:3000/static/media/9.279a39550e4a407fdfec.webp",
+            "name": "Fantastic Flora",
+            "types": [0, 1],
+            "sizes": [ 1, 2],
+            "price": 89,
+            "category": 3,
+            "rating": 2
+        }
+    ]
+}
