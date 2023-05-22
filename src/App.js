@@ -1,11 +1,11 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 
 
 
 
 import { Header} from './components';
 import {Home, Cart} from './pages';
-import { Routes, Route } from "react-router-dom";
+import { Outlet} from "react-router-dom";
 
 
 // import store from './redux/store';
@@ -23,11 +23,7 @@ function App() {
       <div className="wrapper">
         <Header />
         <div className="content">
-          <Routes>
-            <Route path='/' Component={Home} exact > </Route>
-            <Route path='/cart' Component={Cart} exact />
-        
-          </Routes>
+        <Outlet />
       
         </div>
       </div>
